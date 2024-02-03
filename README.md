@@ -11,3 +11,7 @@ For this we have used concept of MIN() aggregate function, subquery.
 
 ## RANK
 With the help of RANK() function we have displayed rank of salary of an employee. Concepts used with RANK() function are ORDER BY ASC/DESC, NULLS LAST.
+
+## DENSE_RANK
+This file contains implementation of DENSE_RANK() function. We have displayed rank of salary, rank of salary with details, top 5 salaries, 5 lowest salaries,
+highest/lowest salary, particular salary etc. 
