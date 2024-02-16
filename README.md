@@ -15,3 +15,8 @@ With the help of RANK() function we have displayed rank of salary of an employee
 ## DENSE_RANK
 This file contains implementation of DENSE_RANK() function. We have displayed rank of salary, rank of salary with details, top 5 salaries, 5 lowest salaries,
 highest/lowest salary, particular salary etc. 
+
+## ROWNUM
+We have demonstrated use of ROWNUM function. We have displayed first and last 'N' records, ROWNUM with details, skip 'N' rows and fetch next 'M' rows.
+
+## ROWID
