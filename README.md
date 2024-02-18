@@ -24,7 +24,7 @@ In this file we have demonstrated use of 'ROWID'. Using 'ROWID' we have displaye
 department wise first and last inserted record, first and last inserted record inserted in a particular department.
 
 # JOINS
-## INNER JOIN
-## LEFT OUTER JOIN OR LEFT JOIN
-## RIGHT OUTER JOIN OR RIGHT JOIN
-## FULL OUTER JOIN
+Here wehave applied following joins INNER JOIN, LEFT/RIGHT JOIN, FULL OUTER JOIN, SELF JOIN, CROSS JOIN, EQUI JOIN, NON-EQUI JOIN. We have used 2 or 3 tables in example.
+
+# SET Operators
+
