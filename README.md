@@ -27,4 +27,16 @@ department wise first and last inserted record, first and last inserted record i
 Here wehave applied following joins INNER JOIN, LEFT/RIGHT JOIN, FULL OUTER JOIN, SELF JOIN, CROSS JOIN, EQUI JOIN, NON-EQUI JOIN. We have used 2 or 3 tables in example.
 
 # SET Operators
+We have created separate database "EMP" for this practicle. Refer file "EMP_DATA_FOR_SET_OPERATIONS.sql" for table and data. We have worked on UNION, UNION ALL, INTERSECT & MINUS OPERATOR.
 
+## UNION
+It will display unique reconds and remove duplicate records from both tables.
+
+## UNION ALL
+It will display unique and duplicate records from both tables.
+
+## INTERSECT
+It will display common records from both tables.
+
+## MINUS
+It will display rows present in first query but abscent in second query with no duplicates.

@@ -1,0 +1,2015 @@
+CREATE TABLE TAB_A (
+  EID number(5) default NULL,
+  ENAME varchar2(255) default NULL,
+  CITY varchar2(255)
+);
+
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (246,'Andrew Cooke','Ghaziabad');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (106,'Ina Hatfield','Dehradun');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (336,'Zena Howe','Haridwar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (493,'Malachi Adkins','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (496,'Palmer Lamb','Ambala Sadar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (928,'Cody Pugh','Daman');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (119,'James Maldonado','Delhi');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (178,'Geoffrey Valenzuela','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (482,'Darrel Hudson','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (791,'Yuli Acosta','Tiruppur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (284,'Beck Macdonald','Imphal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (133,'Murphy Cleveland','Delhi');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (691,'Graiden Decker','Silvassa');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (991,'Martin Lott','Kolkata');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (708,'Halla Brennan','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (593,'Kelly Chan','Port Blair');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (261,'Garth Munoz','Gondiya');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (354,'Isabelle Deleon','Bahawalnagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (504,'Illiana Mcmahon','Itanagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (684,'Lionel Gentry','Haridwar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (961,'Keith Conway','Sambalpur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (978,'Emerson Emerson','Yamuna Nagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (536,'Ahmed Morgan','Cochin');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (103,'Malcolm Warner','Kohima');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (682,'Kellie Oneil','Itanagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (639,'Tara Haney','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (904,'Charde Wynn','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (384,'Raja Little','Itanagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (135,'Phelan Mcknight','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (340,'Kylynn Rosales','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (191,'Macon Roth','Raj Nandgaon');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (317,'Prescott Foley','Belgaum');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (238,'Britanni Luna','Salem');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (808,'Winifred Foley','Agartala');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (619,'Xantha Schroeder','Surat');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (562,'Darryl Cobb','Dibrugarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (644,'Chava Washington','Bidar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (714,'Dahlia Valencia','Patna');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (452,'Alvin Kelley','Raurkela Civil Township');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (697,'Penelope Jacobson','Dehri');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (285,'Magee Cote','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (549,'Burke Dunn','Delhi');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (579,'Nyssa Santos','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (268,'Noelle Abbott','Nadiad');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (215,'Silas Bonner','Aligarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (957,'Xandra Oneil','Daman');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (197,'Hoyt Pace','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (778,'Shad Nielsen','Puri');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (156,'Miranda Tyler','Kohima');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (469,'Blossom Townsend','Agartala');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (597,'Christopher Holman','Srinagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (677,'Leandra Calderon','Bhagalpur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (648,'Jocelyn Mendoza','Bankura');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (314,'Fitzgerald Sloan','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (462,'Peter Odom','Imphal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (398,'Callie Curry','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (935,'Josiah Marsh','Lahore');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (534,'Serina Trevino','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (315,'Brianna Wilson','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (800,'Paul Estrada','Bansberia');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (509,'Lisandra Vargas','Allappuzha');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (371,'Scarlet Pope','Davangere');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (147,'Xyla Chaney','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (715,'Lane Carlson','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (584,'Jesse Hendrix','Bettiah');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (254,'Graham Shields','Chapra');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (329,'Gavin Sharp','Bhavnagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (153,'Chandler Chaney','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (712,'Clarke Ellison','Puri');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (153,'Geoffrey Santana','Godhra');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (949,'Knox Hendricks','Srinagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (843,'Blake Chandler','Purnea');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (816,'Keane Arnold','Aizwal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (122,'Courtney Steele','Mangalore');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (691,'Juliet Hardin','Lucknow');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (501,'Rose Avery','Hubli');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (647,'Bethany Leach','Daman');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (524,'Reece Browning','Port Blair');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (769,'Farrah Pratt','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (736,'Oleg Griffith','Imphal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (963,'Colin Bailey','Rohtak');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (887,'Hannah Vega','Rewa');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (342,'Wendy Ayala','Daman');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (755,'Lois Snyder','Basirhat');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (550,'Ivan Stout','Haridwar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (982,'Colette Hamilton','Gadag Betigeri');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (160,'Damon Snider','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (980,'Cally Sparks','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (469,'Jasper Booth','Itanagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (698,'Rina Sanchez','Faridabad');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (976,'Maxwell Kennedy','Aurangabad');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (766,'Stephen Fuentes','Silvassa');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (807,'Jared Maddox','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (936,'Flynn Branch','Sambhal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (620,'Florence Stephenson','Raurkela Civil Township');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (977,'Vincent Barnett','Chandigarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (401,'Martina Love','Raigarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (127,'Roary Riddle','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (920,'Imelda Oneal','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (791,'Aileen Vaughan','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (225,'Hop Kelley','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (152,'Mira Oliver','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (736,'Simone Nieves','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (276,'Aquila Henry','Godhra');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (986,'Elliott Ray','Delhi');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (889,'Chaney Melendez','Kanpur Cantonment');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (556,'Mercedes Conrad','Agartala');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (279,'Macey Sharp','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (811,'Cameron Hess','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (920,'Cathleen Phelps','Daman');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (749,'Clare Hewitt','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (281,'Aretha Randolph','Itanagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (754,'Dexter Davis','Agartala');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (560,'Moana Hartman','Guwahati');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (547,'Coby Coleman','Bhubaneswar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (837,'Craig Manning','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (477,'Zachary Reynolds','Aizwal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (297,'Cathleen Howard','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (180,'Irene Delaney','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (445,'Timon Herman','Trivandrum');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (556,'Anika Parsons','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (873,'Georgia Mccarty','Daman');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (102,'Kerry Holland','Sambalpur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (663,'Reed Kirk','Aizwal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (452,'Reed Castro','Kulti-Barakar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (323,'Nayda Mooney','Godhra');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (687,'Jamal Ball','Bidar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (796,'Aurelia York','Raigarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (492,'Wynne Hensley','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (208,'Alika Parrish','Thalassery');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (550,'Cameran Cherry','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (701,'Brandon Steele','Chhindwara');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (133,'Nero Valencia','Port Blair');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (683,'Constance Ortiz','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (426,'Reese Crane','Aizwal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (143,'Fay Kerr','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (670,'Daquan Hoover','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (168,'Merritt Adkins','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (881,'Orson Reilly','Delhi');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (479,'Keefe Wyatt','Karnal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (480,'Colleen Espinoza','Gaya');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (364,'Nigel Mckay','Cochin');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (607,'Ronan Swanson','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (273,'Petra Mcfadden','Kohima');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (479,'Jakeem Boone','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (833,'Ivory Cobb','Davangere');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (268,'Gisela Newman','Bidar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (821,'Cassandra Graves','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (482,'Ulysses Kline','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (817,'Yuli Mcdonald','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (458,'Lucas Bryan','Kanchipuram');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (811,'Kieran Garza','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (583,'Derek Buckley','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (750,'Rina Cardenas','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (155,'Dawn Sanford','Imphal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (561,'Katelyn Bowen','Saharanpur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (377,'Knox Miles','Chiniot');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (985,'Harding Perkins','Vizianagaram');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (641,'Karina Ochoa','Delhi');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (302,'Mannix Wyatt','Junagadh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (138,'Ethan Castaneda','Ranchi');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (480,'Sheila Barker','Durg');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (360,'John Hester','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (467,'Sydnee Whitaker','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (997,'Leroy Cline','Dehradun');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (107,'Donovan Guerra','Raichur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (813,'Kiona Scott','Ambala');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (533,'Rajah Branch','Kohima');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (983,'Dora Clements','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (388,'John Davenport','Korba');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (658,'Kenyon Long','Daman');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (306,'David Powell','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (235,'Britanney Osborn','Korba');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (209,'Xandra King','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (836,'Cedric Sawyer','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (563,'Rigel Buckley','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (715,'Georgia Horn','Kukatpalle');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (653,'Lila Reid','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (604,'Christian Mullins','Dibrugarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (494,'Bertha Finley','Varanasi');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (215,'Callie Chapman','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (351,'Ursa Beck','Purnea');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (945,'Gisela Yang','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (308,'Damian Barnett','Chandigarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (673,'Shoshana Alexander','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (940,'Zenaida Kemp','Sambalpur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (433,'Melodie Koch','Dhanbad');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (285,'Clarke Ramos','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (571,'Chancellor Sampson','Itanagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (942,'Gil Reynolds','Kohima');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (225,'Lamar Jefferson','Dibrugarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (808,'Odette Goff','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (830,'Britanni Harrell','Barddhaman');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (945,'Caesar Ryan','Itanagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (370,'Byron Terrell','Salem');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (300,'Derek Wise','Delhi');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (899,'Debra Duncan','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (225,'Xenos Huber','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (180,'Salvador Farrell','Kukatpalle');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (730,'Lynn Charles','Bokaro Steel City');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (183,'Dora Eaton','Bidar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (590,'Isaiah Hines','Junagadh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (772,'Denton Ferrell','Kolkata');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (430,'Kato Hess','Burhanpur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (160,'Keelie Skinner','Dehradun');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (888,'Blake Stark','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (591,'Jacob Lancaster','Daman');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (168,'Ralph Lewis','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (920,'Honorato Mcdonald','Adoni');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (809,'Tara Hester','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (524,'Ariana Hart','Achalpur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (984,'Caesar Rasmussen','Cuttack');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (934,'Nevada Kelly','Aizwal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (732,'Castor Gibbs','Bijapur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (339,'Gregory Phillips','Silvassa');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (649,'Rogan Guzman','Beawar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (258,'Alan Farrell','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (579,'Veronica Best','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (614,'Leroy Holman','Imphal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (440,'Griffith Turner','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (426,'Chava Rush','Bokaro Steel City');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (531,'Gwendolyn Parks','Dehradun');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (606,'Castor Reyes','Bangalore');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (328,'Francis Roberson','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (275,'Beatrice Griffith','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (476,'Maris Sharp','Karnal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (328,'Kelsey Suarez','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (446,'Yvette Evans','Imphal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (921,'Bertha Gross','Delhi');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (434,'Hiram Mckinney','Port Blair');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (301,'Hakeem Levine','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (384,'Colt Watkins','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (106,'Amelia Barnett','Chandigarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (740,'Buckminster Elliott','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (705,'Maxine Washington','Morena');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (823,'Irma Heath','Agartala');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (747,'Finn Lewis','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (622,'Clio Berg','Haridwar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (384,'Armando Potter','Raigarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (329,'Adele Edwards','Guna');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (598,'Cruz Slater','Port Blair');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (371,'Driscoll Chase','Rewa');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (942,'Troy Mcconnell','Silvassa');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (782,'Yuri Petty','Aizwal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (190,'Caesar Pierce','Bhopal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (979,'Timothy Weaver','Vadodara');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (679,'Dorothy Olsen','Kohima');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (661,'Gray Wiley','Dehradun');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (626,'Xavier Warner','Alwar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (784,'Sonya Duke','Dehradun');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (661,'Justine Everett','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (581,'Solomon Castaneda','Thanjavur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (734,'Byron Vaughn','Kohima');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (124,'Ethan Floyd','Port Blair');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (551,'Naomi Ewing','Itanagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (490,'Quinn Blevins','Vejalpur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (314,'Steven Gordon','Haridwar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (952,'Zahir Schwartz','Srinagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (964,'Ulric Crawford','Thalassery');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (735,'May Flores','Kohima');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (229,'Graham Gallagher','Ulhasnagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (448,'Germaine Bridges','Tonk');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (748,'TaShya Hogan','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (651,'Christen Bryant','Neyveli');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (787,'Hayden Long','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (566,'Wylie Sellers','Brahmapur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (911,'Jordan Fitzgerald','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (941,'Avram Blankenship','Chandigarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (579,'Jael Hooper','Delhi');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (909,'Abraham Baird','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (840,'Nehru Cooley','Port Blair');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (982,'Odette Alvarado','Valparai');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (844,'Harding Paul','Palayankottai');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (548,'Thaddeus Abbott','Kollam');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (508,'Ora Rivera','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (996,'Clio Flynn','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (818,'Rajah Ashley','Tirupati');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (151,'Mariko Levy','Chandigarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (780,'Barrett Richard','Silchar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (463,'August Knowles','Chandigarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (474,'Orson Stevenson','Silvassa');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (120,'Talon Francis','Bettiah');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (239,'Nicholas Odom','Mysore');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (218,'Cedric Marks','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (724,'Wallace Mcintyre','Sasaram');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (433,'Jacob Bowman','Chhindwara');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (501,'Miranda Carrillo','Haridwar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (368,'Ivory Stone','Vijayawada');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (271,'Carissa Freeman','Jalandhar (Jullundur}');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (958,'Nehru White','Kolhapur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (224,'Yvette Horne','Aligarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (468,'Brandon Price','Sonipat');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (818,'Colette Vega','Pali');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (794,'Uriel Abbott','Morena');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (476,'Ariana Rich','Dehradun');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (567,'Ahmed Bird','Port Blair');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (595,'Aristotle Solis','Puri');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (654,'Rae Campbell','Gulbarga');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (798,'Kimberly Glover','Hafizabad');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (746,'Graiden Donaldson','Imphal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (569,'Arthur Turner','Delhi');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (919,'Dylan Saunders','Chandigarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (996,'Fay Hogan','Dewas');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (942,'Diana Odom','Saharanpur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (469,'Malachi Aguilar','Itanagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (216,'Wynter Valencia','Bhiwani');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (810,'Nolan Mcclure','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (565,'Savannah Davidson','Durg');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (785,'Faith Todd','Mango');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (344,'Cameran Mejia','Katihar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (644,'Myra Brady','Mandya');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (898,'Amela Dejesus','Raj Nandgaon');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (787,'Quinlan Reid','Srinagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (923,'Luke Wiley','Kanpur Cantonment');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (120,'Yetta Graham','Imphal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (213,'Marah Deleon','Port Blair');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (169,'Ingrid Oliver','Mandya');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (542,'Yuli Carney','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (796,'Keaton Brock','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (421,'Cole Alford','Port Blair');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (932,'Inez Wilson','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (215,'Carissa Joyner','Agartala');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (231,'Quinn Michael','Rohtak');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (401,'Quintessa Lara','Sialkot');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (481,'Lara Pitts','Itanagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (682,'Tatiana Gregory','Dehradun');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (124,'Carissa Dyer','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (340,'Donna Anthony','Silvassa');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (758,'Gray Head','Jamshedpur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (110,'Rebekah Steele','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (853,'Eric English','Bhagalpur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (192,'Roth Potts','Agartala');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (506,'Jasmine Hays','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (520,'Quintessa Mccarthy','Katihar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (922,'Austin Potter','Ghaziabad');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (892,'Tasha Lawson','Patna');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (903,'Tanner Valencia','Bokaro Steel City');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (240,'Yolanda Sweet','Bhuj');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (824,'Richard Cunningham','Guwahati');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (704,'Aristotle Pugh','Srinagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (399,'Nelle Shepard','Davangere');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (370,'Giacomo Clay','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (323,'Dale Rivera','Nagaon');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (794,'Ross Rush','Silvassa');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (626,'Hiram Johnson','Mangalore');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (641,'Chancellor Workman','Chhindwara');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (445,'Sonya Peters','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (598,'Nathaniel Lang','Muzaffarpur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (440,'Tallulah Little','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (518,'Gloria Williams','Haridwar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (268,'Chandler Rasmussen','Raj Nandgaon');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (215,'Oscar Wiley','Agartala');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (768,'Courtney Hodges','Chhindwara');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (205,'Seth Dudley','Surat');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (676,'Francis Church','Bhavnagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (116,'Cade Anderson','Haridwar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (338,'Damon Whitley','Aizwal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (893,'Daniel Middleton','Itanagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (770,'Candace Henry','Delhi');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (653,'Inez Spencer','Aizwal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (266,'Brennan Wilcox','Haridwar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (514,'Armand Hodge','Aizwal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (621,'Fulton Parsons','Bellary');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (466,'Lisandra Estrada','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (820,'Stone May','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (148,'Rashad Nixon','Ludhiana');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (535,'Juliet Newman','Silchar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (234,'Derek Ayers','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (466,'Sebastian Forbes','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (743,'Shelby Pollard','Vidisha');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (419,'Kirby Dale','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (122,'Phoebe Middleton','Port Blair');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (981,'Plato Petty','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (156,'Sandra Nieves','Chandigarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (119,'Mufutau Barrera','Dehradun');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (688,'Malachi Faulkner','Bikaner');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (155,'Stone Montgomery','Raigarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (764,'Zahir Goodman','Burhanpur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (623,'Macey Berry','Ambala');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (792,'Bell Schultz','Jammu');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (736,'Aristotle Carrillo','Gaya');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (784,'Neve Wagner','Dehradun');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (611,'Nicole Ruiz','Gadag Betigeri');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (480,'Damian Pacheco','Silvassa');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (368,'Reed Stone','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (857,'Denton Burris','Port Blair');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (721,'Raja Franks','Gadag Betigeri');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (241,'Brooke Watson','Silvassa');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (145,'Belle Pickett','Murwara');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (147,'Mohammad Carpenter','North Barrackpur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (577,'Ian Warner','Hisar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (375,'Riley Sampson','Daman');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (547,'Elmo Walker','Raj Nandgaon');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (757,'Isaiah Hunter','Secunderabad');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (462,'Mariam Pope','Gujrat');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (381,'Larissa Vinson','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (467,'Joel Clemons','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (786,'Violet Gray','Lalbahadur Nagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (113,'Teagan Tillman','Raigarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (982,'Neve Parks','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (163,'Marsden Mckay','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (600,'Brianna Rollins','Bidar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (439,'Celeste Kane','Purnea');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (861,'Vaughan Vaughn','Valparai');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (338,'Yardley Montoya','Serampore');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (664,'Erica Collins','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (365,'Valentine Beach','Silvassa');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (747,'Colby Justice','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (280,'Jarrod Patrick','Bulandshahr');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (789,'Yen Burgess','Jammu');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (448,'Tyler Johnson','Silchar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (668,'Porter Melendez','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (326,'Quail Fry','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (412,'Bruce Cantu','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (507,'Zia Webb','Navadwip');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (526,'Phyllis Norman','Vishakhapatnam');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (349,'Boris Baird','Srinagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (224,'Hedley Boyle','Gujrat');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (360,'Evelyn Francis','Thalassery');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (317,'Brett Osborne','Kasur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (797,'Donna Trevino','Shimla');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (842,'Hyatt Boyd','Bokaro Steel City');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (399,'Quail Newton','Haldia');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (668,'Aquila Mcgee','Daman');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (598,'Zenaida Gamble','Agartala');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (184,'Serina Mccullough','Imphal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (178,'Joy Townsend','Rajapalaiyam');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (238,'Mara Guzman','Chhindwara');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (756,'Dora Woodward','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (871,'Karly Shepard','Panjim');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (909,'Micah Downs','Chandigarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (566,'Stephanie Pierce','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (761,'Hollee Zamora','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (655,'Illiana Greene','Pak Pattan');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (643,'Hunter Roth','Shillong');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (259,'Meghan Preston','Kohima');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (723,'Knox Morse','Bihar Sharif');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (681,'Maris Spears','Bhatinda');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (689,'Echo Sellers','Aizwal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (991,'Alexis Gill','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (707,'Eleanor Nguyen','Gurgaon');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (460,'Gemma Gilbert','Srinagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (156,'Latifah Edwards','Sambalpur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (379,'Kathleen Cook','Dabgram');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (321,'Rogan Hopper','Bhubaneswar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (775,'Portia Greer','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (834,'Deborah Cabrera','Meerut');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (577,'Kane Bailey','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (615,'Ainsley Serrano','Hazaribag');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (350,'Bo Gaines','Kohima');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (645,'Breanna Blackburn','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (776,'Genevieve Rowland','Itanagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (469,'Alice Dickerson','Vidisha');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (839,'Lois Hodges','Belgaum');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (358,'Erich Clarke','Jamnagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (139,'Melodie Winters','Tirupati');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (304,'Dalton Johnson','Chhindwara');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (275,'Malcolm Ayala','Aizwal');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (124,'Renee Moon','Ratlam');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (431,'Libby Donovan','Rampur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (710,'Alyssa Walton','Daman');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (116,'Trevor Cain','Pimpri-Chinchwad');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (792,'Neville Jennings','Durg');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (553,'Nicholas Osborne','Silvassa');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (566,'Oliver Gay','Bhilai');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (697,'Dexter Leonard','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (943,'Demetria Shannon','Brahmapur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (762,'Kylan Greene','Chandigarh');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (347,'Kevyn Compton','Kavaratti');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (849,'Philip Snow','Port Blair');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (721,'Carl Vaughan','Delhi');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (270,'Carter Padilla','Raipur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (432,'Meredith Shepherd','Itanagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (314,'Jesse England','Panipat');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (590,'Lucian Fowler','Itanagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (230,'Cora Smith','Port Blair');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (590,'Bevis Griffith','Nagaon');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (299,'Orla Serrano','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (285,'Cora Thornton','Port Blair');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (785,'Winifred Pitts','Kohima');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (458,'Nadine Sanchez','Rajapalaiyam');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (350,'Kimberly Kaufman','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (539,'Rudyard Hoover','Thalassery');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (704,'Acton Lamb','Uluberia');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (562,'Caldwell Barrett','Vellore');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (736,'Holmes Fuller','Daman');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (765,'Bruce Brooks','Timkur');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (179,'Camden Cooley','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (666,'Lani Delaney','Korba');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (869,'Amal Harrison','Mandya');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (286,'Gray Riggs','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (535,'Cherokee Green','Itanagar');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (189,'Ramona Foster','Gangtok');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (155,'Scott Graves','Kohima');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (762,'Pandora Hall','Agra');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (104,'Beatrice Nielsen','Daman');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (668,'Forrest Haney','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (914,'Raphael Castillo','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (381,'Aurelia Schultz','Pondicherry');
+INSERT INTO TAB_A (EID,ENAME,CITY)
+VALUES (268,'Flynn Cook','Silvassa');
+
+
+
+CREATE TABLE TAB_B (
+  EID number(5) default NULL,
+  ENAME varchar2(255) default NULL,
+  CITY varchar2(255)
+);
+
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (952,'Jacob Glenn','Katihar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (472,'Kermit Dickson','Haridwar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (459,'Sean Whitney','Sonipat');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (348,'Brody Cooley','Bikaner');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (123,'Ocean Rodriguez','Aizwal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (991,'Francesca Blake','Agartala');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (159,'Oren Brady','Allappuzha');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (756,'Hoyt Haney','Bhubaneswar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (654,'Dean Hogan','Bilaspur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (855,'Ruby Lloyd','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (809,'Kim Hays','Ajmer');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (603,'Jameson Moody','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (388,'Kirsten Padilla','Bharatpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (107,'Shelby Tyler','Imphal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (788,'Burton Kent','Mandya');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (166,'Chancellor Reynolds','Satara');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (387,'Miranda Dean','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (338,'Kitra Hurst','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (863,'Daria Bowman','Gurgaon');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (604,'Karyn Hughes','Kohima');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (301,'Lacy Elliott','Malkajgiri');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (689,'Peter Romero','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (692,'Gil Mcclure','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (222,'Knox Poole','Gangtok');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (265,'MacKenzie Mayer','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (796,'Isaiah Miles','Bokaro Steel City');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (591,'Ishmael Mcintyre','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (720,'Connor Ortiz','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (243,'Colette Wilder','Sonipat');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (974,'John Robbins','Aizwal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (725,'Amal Alvarez','Nanded');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (479,'Kasper Aguilar','Brahmapur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (319,'Lydia Bowers','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (900,'Austin Torres','Kozhikode');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (630,'Gareth Mccoy','Gangtok');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (655,'Colt Joyce','Faisalabad');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (950,'Gil Holcomb','Silchar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (621,'Rylee Odom','Dhanbad');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (493,'Charles Tate','Durg');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (800,'Christine Emerson','Hapur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (598,'Chastity Herring','Gangtok');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (192,'Wing Harrell','Hoshiarpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (703,'Rebekah Morse','Bankura');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (928,'Sopoline Colon','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (838,'Hannah Willis','Bhilai');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (634,'Ishmael Craig','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (902,'Xena Salinas','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (670,'Chester Gates','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (146,'Kamal Rios','Purnea');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (335,'Kirsten Chen','Agartala');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (502,'Magee Sawyer','Hoshiarpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (538,'Jena Golden','Chandigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (275,'Nichole Briggs','Maunath Bhanjan');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (138,'Ori Meyers','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (394,'Joelle Kane','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (382,'Libby Rush','Raurkela Civil Township');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (282,'Alika Compton','Dehradun');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (642,'Nayda Black','Purulia');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (328,'Marvin Pratt','Rajahmundry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (450,'Selma Hinton','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (834,'Priscilla Maxwell','Gurgaon');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (601,'Dean Maynard','Proddatur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (852,'Leigh Patel','Delhi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (808,'Leo Hamilton','Gonda');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (799,'Ferdinand Smith','Dewas');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (863,'Gary Oneal','Vidisha');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (374,'Nolan Rose','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (901,'Ralph Newton','Nagarcoil');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (453,'Daniel Crosby','Vizianagaram');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (243,'Ashton Ratliff','Mumbai');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (507,'Ori Williamson','Wardha');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (692,'Lance Mcfarland','Jammu');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (931,'Hanae Boyle','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (694,'Kirsten Ortiz','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (974,'Illana Collins','Purulia');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (346,'Ila Stein','Raipur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (321,'Kalia Short','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (522,'Reece Potts','Silvassa');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (232,'Madeline Carr','Korba');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (443,'Tate Sandoval','Hisar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (747,'Justine Mckinney','Guntur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (123,'Rylee Graves','Krishnanagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (279,'Imani Edwards','Silvassa');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (420,'Wynne Roman','Bhilai');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (111,'Barclay Diaz','Anand');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (372,'Emma Simon','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (613,'Yetta Meadows','Kohima');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (213,'Davis Bridges','Agartala');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (691,'Aline Wood','Puri');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (450,'Samuel Cervantes','Wardha');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (197,'Adam Ochoa','Habra');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (237,'Leila Le','Bihar Sharif');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (523,'Madaline Hernandez','Silvassa');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (739,'Destiny Ryan','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (196,'Ifeoma Kerr','Purnea');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (163,'Ainsley Bradford','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (980,'Cade Cross','Kohima');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (683,'Jarrod Hull','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (160,'Hoyt Hester','Barrackpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (225,'Lacy Charles','Davangere');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (334,'Yasir Cannon','Bhilai');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (788,'Emmanuel Joyce','Thalassery');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (727,'Brynne Burris','Mangalore');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (510,'Carissa Shaffer','Faridabad');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (506,'Felicia Sherman','Itanagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (327,'Tucker Rhodes','Silvassa');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (596,'Denise Flores','Gujranwala');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (142,'Thane Martinez','Kanchipuram');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (872,'Wylie Snider','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (368,'Ella Underwood','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (214,'Rina Evans','Jamshedpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (442,'Harriet Jarvis','Silchar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (162,'Christopher Moreno','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (972,'Connor Murray','Thalassery');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (586,'Daquan Randall','Multan');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (553,'Anthony Tyler','Panipat');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (840,'Beverly Tanner','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (245,'Renee Mclaughlin','Delhi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (459,'Kirsten Barber','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (144,'Cameron Nolan','Chandigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (216,'Blossom Poole','Chandigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (732,'Kameko Padilla','Port Blair');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (465,'Serina Ashley','Jamshedpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (483,'Brooke Manning','Chandigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (119,'Madeline Mcconnell','Gangtok');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (388,'Hadley Cochran','Silchar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (363,'Daniel Vang','Dehradun');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (715,'Clementine Chase','Morvi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (671,'Brett Grant','Delhi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (860,'Noble Owens','Arrah');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (804,'Angela Dejesus','Imphal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (517,'Yoshio Mcguire','Silvassa');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (881,'Cairo Britt','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (789,'Lacy Hogan','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (935,'Rhonda Wilkins','Tiruvarur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (506,'Glenna Battle','Sagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (469,'Daniel Flowers','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (430,'Liberty Snider','Jamshedpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (750,'Carl Rodriquez','Kohima');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (118,'Kai Warner','Haridwar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (365,'Jenna Gray','Gangtok');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (310,'Leilani Cain','Munger');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (580,'Blossom Guthrie','Srinagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (235,'Tanya Chase','Jamshedpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (722,'Haley Richard','Aizwal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (266,'Ferdinand Lynch','Kohima');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (325,'Aidan Parrish','Itanagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (244,'Odysseus Anthony','Delhi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (579,'Bruno Gentry','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (243,'Carter Gross','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (265,'Noah Griffith','Ranchi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (249,'Asher Robles','Raurkela');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (899,'Scott Greene','Purulia');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (560,'Alma Miles','Sonipat');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (993,'Naida Fleming','Delhi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (107,'Idola Aguilar','Port Blair');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (761,'Coby Bradshaw','Wazirabad');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (890,'Finn Fry','Nagaon');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (870,'Karyn Horne','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (432,'Jonas Randall','Bhuj');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (194,'Yvette Rojas','Gulbarga');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (191,'Francesca Bass','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (639,'Shellie Lopez','Rajkot');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (547,'Cyrus Craft','Delhi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (668,'Allen Reid','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (882,'Rigel Morin','Aligarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (293,'Juliet Parrish','Vishakhapatnam');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (761,'Stephen Moreno','Thalassery');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (828,'Teegan Murray','Chandigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (357,'Zelda Mcguire','Bhilwara');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (832,'Uriel Conner','Kohima');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (810,'Mohammad Newman','Raigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (885,'Vincent Jackson','Delhi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (573,'Orson Trevino','Imphal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (237,'Francis Caldwell','Kanpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (596,'Gail Michael','Itanagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (138,'Davis Ware','Dehradun');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (427,'Bell Nixon','Imphal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (604,'Kasimir Peters','Palakkad');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (592,'Merrill Schroeder','Chandigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (878,'Declan Stevens','Gangtok');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (778,'Raymond Henderson','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (780,'Yael Wall','Hazaribag');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (539,'Heidi Abbott','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (231,'Sara Goodman','Raurkela Civil Township');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (650,'Hyacinth Mercado','Cuttack');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (490,'Thor Keith','Berhampore');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (214,'Hope Wells','Raigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (696,'Zeph Hayden','Delhi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (863,'Mariam Wood','Kota');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (467,'TaShya Simpson','Silvassa');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (777,'Megan York','Imphal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (349,'Lilah Marks','Jammu');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (889,'Nash Gibson','Anand');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (347,'Yael Welch','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (186,'James Reeves','Karimnagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (370,'Logan Calhoun','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (113,'Violet French','Silvassa');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (953,'Gay Avery','Chandigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (589,'Brennan Stark','Ahmedabad');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (482,'Finn Buck','Jaipur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (470,'Quamar Adams','Durg');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (448,'Brent Gillespie','Sasaram');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (228,'Ignatius Maddox','Sasaram');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (829,'Daniel Johns','Raj Nandgaon');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (180,'Sylvia Shaw','Gangtok');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (701,'Jack Odom','Silchar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (952,'Marvin Benson','Daska');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (681,'Oprah Salazar','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (339,'Basia Silva','Agartala');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (317,'Maya Vance','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (426,'Hollee Riggs','Mango');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (980,'Clio Morgan','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (453,'Knox Robinson','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (188,'Bianca Pope','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (605,'Inga Fuentes','Delhi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (570,'Rafael Alexander','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (566,'Anastasia Dalton','Navsari');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (103,'Hayley Mcpherson','Tonk');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (776,'Yetta Hardin','Silvassa');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (323,'Fallon Calderon','Gwalior');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (128,'Xantha Stuart','Gaya');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (564,'Donovan Thompson','Aizwal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (737,'Janna George','Alandur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (623,'Aline Rios','Arrah');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (472,'Kai Britt','Raj Nandgaon');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (496,'Doris Travis','Imphal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (309,'Faith Kline','Agartala');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (520,'Serena Valenzuela','Palakkad');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (657,'Ingrid Brown','Ranchi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (503,'Thaddeus Shepherd','Bharatpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (982,'Shoshana Bonner','Kollam');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (943,'Donna Noble','Yamuna Nagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (900,'Hanae Becker','Ambala');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (195,'India Gregory','Lucknow');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (410,'Quintessa Harris','Anantapur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (800,'Joel Cameron','Dehradun');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (932,'Joel Reyes','Ambala Sadar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (199,'Dai Barron','Chandigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (457,'Len Erickson','Surendranagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (551,'Chadwick Gates','Kohima');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (332,'Jena Bowen','Gangtok');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (793,'Gretchen Torres','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (545,'Merrill Duran','Fatehpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (938,'Brody Rowe','Kohima');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (971,'Timon Vargas','Bareilly');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (549,'Sophia Cleveland','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (417,'Bruno Fuller','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (130,'Harper Alvarado','Ajmer');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (472,'Octavius Mckay','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (261,'Alexis Nunez','Avadi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (716,'Imani Hanson','Dehradun');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (243,'Garrison Mercer','Itanagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (579,'Gloria Dotson','Chandigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (624,'Slade Mclaughlin','Palakkad');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (966,'Minerva Todd','Silchar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (460,'Colorado Franks','Surat');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (507,'Nicole Solomon','Haridwar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (199,'Uma Love','Dehradun');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (785,'Fletcher Kemp','Delhi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (523,'Jeanette Dyer','Chandigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (321,'Kirestin Gray','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (335,'Jessica Harrington','Cuttack');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (939,'Jordan Fisher','Raurkela Civil Township');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (410,'Ava Dillon','Agartala');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (756,'Cameron Clark','Salem');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (383,'Tatum Mcpherson','Brahmapur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (382,'Demetrius Blanchard','Srinagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (730,'Xantha Wolf','Coimbatore');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (274,'Elaine Curtis','Puri');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (211,'Hall Nunez','Silvassa');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (455,'Guy Stark','Dehradun');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (691,'Adrienne Davenport','Uttarpara-Kotrung');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (824,'Solomon Forbes','Port Blair');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (934,'Kato Melton','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (829,'Regina Romero','Guna');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (723,'Noble Kent','Agartala');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (713,'Dai Hood','Morvi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (105,'Edward Reed','Kohima');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (549,'Alisa Barrera','Darbhanga');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (590,'Ulric Chang','Guwahati');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (875,'Karen Russo','Qutubullapur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (529,'Brent Clarke','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (554,'Sage Cantrell','Bhusawal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (318,'Kaseem Greer','Cochin');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (750,'Deanna Gill','Itanagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (744,'Colette Chandler','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (860,'Russell Lawson','Belgaum');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (306,'Leo Patterson','Dehri');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (442,'Abigail Leach','Firozabad');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (302,'Maisie Talley','Kohima');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (513,'Austin Aguirre','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (107,'Neil Coleman','Farrukhabad-cum-Fatehgarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (305,'Erasmus Battle','Kohima');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (381,'Nyssa Oneal','Itanagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (383,'Cyrus Douglas','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (210,'Holmes Jacobson','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (491,'Caldwell Rosa','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (350,'Tanisha Cleveland','Port Blair');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (710,'Damon Ward','Haridwar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (308,'Nasim Romero','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (823,'Lara Adkins','Dehradun');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (824,'Portia Meyers','Chandigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (996,'Cade Edwards','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (491,'Samuel Weaver','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (642,'Brynne Mcknight','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (231,'MacKenzie Becker','Jaipur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (944,'Zoe Sweeney','Kakinada');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (882,'Cheryl Dickson','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (661,'Rajah Reynolds','Silvassa');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (798,'Nolan Evans','Itanagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (938,'Kitra Morin','Bhubaneswar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (457,'Jakeem Craft','Silvassa');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (796,'Aladdin James','Dehradun');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (873,'Morgan Foster','Nadiad');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (203,'Calista Bernard','Kozhikode');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (188,'Brent Shaw','Port Blair');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (691,'Ulric Boyd','Gangtok');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (788,'Mia Stafford','Itanagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (202,'Paloma Burnett','Kohima');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (544,'Amethyst Curry','Raurkela Civil Township');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (583,'Daria Cooper','Bharuch');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (538,'Marsden Keller','Junagadh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (973,'Hadassah Berry','Halisahar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (704,'Hyatt Bruce','Ratlam');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (601,'Lester Hendrix','Dibrugarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (469,'Patrick Spencer','Proddatur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (771,'Vladimir Kirkland','Bokaro Steel City');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (212,'Chase Dejesus','Dehradun');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (456,'Josephine Ortiz','Port Blair');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (926,'Tarik Gutierrez','Hugli-Chinsurah');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (730,'Stephanie Hubbard','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (805,'Kato Herring','Bangalore');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (985,'Aaron Kirkland','Nagaon');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (737,'Dean Myers','Ambala');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (162,'Amal Lane','Bhimavaram');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (738,'Lucas Stewart','Silvassa');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (463,'Colton Stafford','Raipur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (375,'Cyrus Garza','Hassan');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (607,'Talon Barron','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (910,'Troy Weiss','Faisalabad');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (956,'Zachary Pearson','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (167,'Micah Bright','Daska');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (448,'TaShya Delaney','Delhi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (489,'Castor Levine','Chandigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (373,'Tatum Rasmussen','Agartala');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (840,'Kimberly Bullock','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (447,'Myles Parker','Gangtok');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (196,'Zephr Owens','Gangtok');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (885,'Jaden Pugh','Port Blair');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (875,'Ferris Sykes','Itanagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (642,'Talon Small','Kozhikode');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (451,'Orson Small','Dehradun');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (323,'Dexter Reese','Munger');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (498,'Fuller Valentine','Veraval');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (953,'Sydnee Walsh','Kohima');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (552,'James Mcknight','Gangtok');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (163,'Alvin Dickson','Korba');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (660,'Wade Flowers','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (663,'Basil Madden','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (445,'Bradley Melendez','Udaipur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (377,'Alyssa Moss','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (905,'Abraham Mccoy','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (419,'Colette Hatfield','Madurai');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (369,'Otto Conner','Tambaram');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (422,'Ferris Rivers','Silvassa');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (176,'Colin Fuentes','Purulia');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (817,'Breanna Alvarez','Agartala');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (560,'Eugenia Colon','Korba');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (862,'Bo Norton','Sambalpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (474,'Devin Beach','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (830,'Courtney Oneil','Chandigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (875,'Mechelle Mills','Timkur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (399,'Benjamin Carrillo','Silvassa');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (567,'Mercedes Kidd','Jammu');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (496,'Rigel Warren','Palakkad');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (907,'Chanda Cooper','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (180,'Callum Monroe','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (426,'Joan Ortega','Dehradun');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (925,'Winifred Barr','Bokaro Steel City');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (531,'Yuri Lewis','Raipur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (691,'Prescott Chavez','Panihati');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (153,'Amity Haynes','Dehradun');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (716,'Zenia Lopez','Guntur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (648,'Kimberley Gillespie','Port Blair');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (333,'Juliet Hawkins','Itanagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (635,'Kay Rollins','Adoni');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (435,'Bree Sherman','Purulia');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (976,'Aiko Kemp','Hazaribag');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (220,'Garrett Snyder','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (850,'Alexa Crawford','Bhind');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (801,'Rama Daugherty','Dewas');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (397,'Amaya Barnett','Ratlam');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (909,'Caleb Brewer','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (353,'Inga Torres','Cuttack');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (406,'Jasper Ray','Kohima');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (460,'Lev Larsen','Chandigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (580,'Thaddeus Hubbard','Agartala');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (219,'Ebony Norman','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (847,'Jael West','Solapur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (648,'Kelsey Massey','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (108,'Libby Marquez','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (104,'Eve Joseph','Haridwar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (865,'Carolyn Ortiz','Munger');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (432,'Caldwell Saunders','Bellary');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (620,'Selma Burke','Dibrugarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (858,'Tobias Wade','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (599,'Chaim Russell','Puri');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (540,'Malik Whitney','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (252,'Cynthia Dalton','Gangtok');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (769,'Byron Barker','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (533,'Alika Harris','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (266,'Noble Grant','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (224,'Orson Richmond','Ambala Sadar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (113,'Katell Vazquez','Port Blair');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (665,'Mallory Lindsey','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (178,'Mason Larson','Habra');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (299,'Uta Bean','Ambala Sadar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (338,'Hadley Hess','Jammu');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (752,'Adrian Valdez','Bhagalpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (806,'Darius Richardson','Srinagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (452,'Leilani Anthony','Purulia');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (682,'Melanie Casey','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (337,'Amethyst Yates','Chandigarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (848,'Karyn Lindsey','Junagadh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (424,'Oliver Peterson','Cochin');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (108,'Gannon Dillon','Orai');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (271,'Quinn Salas','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (899,'Jenette Velasquez','Hapur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (587,'Ferdinand Blair','Burhanpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (681,'Nichole Anderson','Delhi');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (926,'Gavin Mcdowell','Panjim');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (111,'Xenos Carson','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (944,'Kennan Guthrie','Timkur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (425,'Norman Richard','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (836,'Cole Bender','North Dum Dum');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (161,'Slade Welch','Port Blair');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (890,'Dara Padilla','Itanagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (175,'Dominique Horne','Lucknow');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (293,'Boris Mcintosh','Bihar Sharif');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (487,'Brynne Finch','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (769,'Tad Cross','Surat');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (244,'Hayden Brennan','Kozhikode');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (670,'Imani Abbott','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (374,'Clare Ramirez','Srinagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (130,'Clinton Allison','Sasaram');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (997,'Marshall Witt','Jamshedpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (504,'Diana Morales','Daman');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (295,'Cheyenne Ryan','Korba');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (670,'Caldwell Mcgowan','Cuttack');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (522,'Scott Short','Aizwal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (577,'Jelani Bullock','Purulia');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (389,'Tarik Boyd','Jhelum');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (646,'Christopher Peck','Purulia');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (753,'Yoko Stevenson','Srinagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (674,'Cameron Acosta','Kakinada');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (771,'Hilel Roberts','Vejalpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (386,'Hannah Finch','Raurkela');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (883,'Cain Powell','Imphal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (985,'Ross Bolton','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (327,'Sheila Rhodes','Dehradun');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (755,'Armand Riley','Agartala');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (111,'Stella Wilder','Panipat');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (550,'Portia Sheppard','Bhopal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (746,'Iola Church','Palakkad');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (153,'Desirae Frederick','Pimpri-Chinchwad');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (289,'Darryl Rich','Shimla');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (348,'India Casey','Gangtok');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (914,'Pandora Curtis','Arrah');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (129,'Roary Vincent','Shillong');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (109,'Denton Richard','Port Blair');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (134,'Darryl Patel','Kavaratti');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (109,'Blythe Duran','Cuttack');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (558,'Hall Emerson','Imphal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (821,'Wade Briggs','Thalassery');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (949,'Valentine Morrow','Sambalpur');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (537,'Barbara Lynn','Dibrugarh');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (819,'Tiger Newman','Silvassa');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (325,'Jordan Knowles','Dehri');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (994,'Jared Howe','Imphal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (323,'Allen Terry','Bhubaneswar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (119,'Idola Frederick','Bhiwani');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (427,'Ursula Boyd','Aizwal');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (717,'Otto Cervantes','Silchar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (867,'Nichole Carney','Cochin');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (957,'Ethan Meyers','Kakinada');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (169,'Hillary Bowman','Port Blair');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (304,'Hoyt Goodman','Bhubaneswar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (681,'Kiayada Newman','Shimoga');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (156,'Aaron Yang','Gangtok');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (755,'Hashim Harmon','Chhindwara');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (307,'Stephanie Aguilar','Srinagar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (207,'Quinlan Reynolds','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (393,'Delilah Silva','Beawar');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (683,'Wendy Cortez','Dera Ghazi Khan');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (160,'Erich Cantrell','Bharuch');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (326,'Quintessa Delgado','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (948,'Cadman Mccormick','Pondicherry');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (249,'Andrew English','Nagaon');
+INSERT INTO TAB_B (EID,ENAME,CITY)
+VALUES (537,'Hanae Gay','Raj Nandgaon');
