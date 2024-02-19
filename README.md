@@ -40,3 +40,24 @@ It will display common records from both tables.
 
 ## MINUS
 It will display rows present in first query but abscent in second query with no duplicates.
+
+# AGGREGATE FUNCTIONS
+Oracle has 6 aggregate functions. Aggregate functions works on columns.
+Aggregate functions are AVG, MIN, MAX, SUM, COUNT(COL_NAME), COUNT(*). 
+These functions excludes null values in a column except COUNT($*$).
+
+AVG() = Computes average value of that column, excludes null value.
+
+MIN() = Selects minimum value in a cloumn.
+
+MAX() = Selects maximum value in a cloumn.
+
+SUM() = Computes addition of all nomber values, excluding null value.
+
+COUNT(col_name) = Returns number of non null records present in a column.
+
+COUNT(*) = Returns number of records present in a column, includes null. 
+
+# HAVING_CLAUSE
+
+
