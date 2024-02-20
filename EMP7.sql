@@ -3,6 +3,7 @@ CREATE TABLE EMP7 (
   ENAME varchar2(255) default NULL,
   EMOB NUMBER(15) default NULL,
   ESAL NUMBER(5) default NULL,
+  EDEPT varchar2(200)default NULL,
   EDOJ DATE,
   EDOR DATE,
   EMAIL varchar2(255) default NULL,
@@ -10,3 +11,4 @@ CREATE TABLE EMP7 (
 );
 
 SELECT * FROM EMP7;
+DROP TABLE EMP7;

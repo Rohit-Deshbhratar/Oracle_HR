@@ -59,5 +59,10 @@ COUNT(col_name) = Returns number of non null records present in a column.
 COUNT(*) = Returns number of records present in a column, includes null. 
 
 # HAVING_CLAUSE
+Using "HAVING CLAUSE" we have displayed unique and duplicate records, also covered different scenarios using aggregate function.
+
+# CHARACTER_FUNCTION
+## 1. CHARACTER MANIPULATION
+## 2. CASE MANIPULATION OR SCALAR FUNCTION
 
 
