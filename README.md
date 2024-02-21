@@ -62,7 +62,18 @@ COUNT(*) = Returns number of records present in a column, includes null.
 Using "HAVING CLAUSE" we have displayed unique and duplicate records, also covered different scenarios using aggregate function.
 
 # CHARACTER_FUNCTION
+It is used to manipulate string. Basically it is divided into two type 1. Character manipulation, 2. Case manipulation or Scalar function.
+
 ## 1. CHARACTER MANIPULATION
+It has 3 functions. 1. length(), 2. substr(), 3. instr()
+
+1. length() = Returns length of string.
+2. substr() = Extract portion of string.
+3. instr() = Return location of substring, it detect first, second. appearance
 ## 2. CASE MANIPULATION OR SCALAR FUNCTION
+It has 3 functions. 1. lower(), 2. upper(), 3. initcap()
+1. lower() = Convert entire string in lower case.
+2. upper() = Convert entire string in upper case.
+3. initcap() = Convert first letter of each word in a string to capital. 
 
-
+# DATE
