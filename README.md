@@ -81,3 +81,4 @@ In this file we have worked on various date functions. Retrived data based on da
 We have also calculated experience/age of an employee.
 
 # CONVERSION_FUNCTION
+Here we have studied NVL(), DECODE() functions. Some data has been deleted from EMP7 table and new data inserted to work on NVL(), DECODE() functions.
