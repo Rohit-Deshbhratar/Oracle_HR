@@ -76,4 +76,8 @@ It has 3 functions. 1. lower(), 2. upper(), 3. initcap()
 2. upper() = Convert entire string in upper case.
 3. initcap() = Convert first letter of each word in a string to capital. 
 
-# DATE
+# DATE_FUNCTION
+In this file we have worked on various date functions. Retrived data based on day, month, year, quarter. Converted month to text, year to text etc.
+We have also calculated experience/age of an employee.
+
+# CONVERSION_FUNCTION
